@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/enghack2021/static/css/main.f78e3be9.chunk.css",
+    "main.js": "/enghack2021/static/js/main.db80f753.chunk.js",
+    "main.js.map": "/enghack2021/static/js/main.db80f753.chunk.js.map",
+    "runtime-main.js": "/enghack2021/static/js/runtime-main.f2d41417.js",
+    "runtime-main.js.map": "/enghack2021/static/js/runtime-main.f2d41417.js.map",
+    "static/js/2.b6712835.chunk.js": "/enghack2021/static/js/2.b6712835.chunk.js",
+    "static/js/2.b6712835.chunk.js.map": "/enghack2021/static/js/2.b6712835.chunk.js.map",
+    "static/js/3.dece9508.chunk.js": "/enghack2021/static/js/3.dece9508.chunk.js",
+    "static/js/3.dece9508.chunk.js.map": "/enghack2021/static/js/3.dece9508.chunk.js.map",
+    "index.html": "/enghack2021/index.html",
+    "static/css/main.f78e3be9.chunk.css.map": "/enghack2021/static/css/main.f78e3be9.chunk.css.map",
+    "static/js/2.b6712835.chunk.js.LICENSE.txt": "/enghack2021/static/js/2.b6712835.chunk.js.LICENSE.txt",
+    "static/media/Login_Image.38862b97.jpg": "/enghack2021/static/media/Login_Image.38862b97.jpg",
+    "static/media/PiggyBank_Logo.024c9ef9.png": "/enghack2021/static/media/PiggyBank_Logo.024c9ef9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2d41417.js",
+    "static/js/2.b6712835.chunk.js",
+    "static/css/main.f78e3be9.chunk.css",
+    "static/js/main.db80f753.chunk.js"
+  ]
+}
